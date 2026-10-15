@@ -1,3 +1,4 @@
+HEAD<<<<<<< 
 # RCC Beam Design Studio — Activity 1
 
 ## Scope
@@ -18,3 +19,6 @@ Factored UDL, moment, effective depth, required/provided tensile steel, basic de
 ## Workbook
 
 `deliverables/RCC_Beam_Design.xlsx` has Inputs (yellow), Calculations (formula cells) and Outputs. Open it in desktop Excel to recalculate and protect formulas before submission. Clauses shown are study references: IS 456:2000 Clauses 23.2, 26.5.1.1, 26.2.1, Table 19; IS 875 Parts 1 and 2.
+=======
+# design_reinforcement_cement_concret
+>>>>>>> 9281cdc6227c93ce0c8777e973512227829cfbc6
